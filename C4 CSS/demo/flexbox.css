@@ -1,0 +1,32 @@
+.contenedorpadre div{
+    background-color: darkkhaki;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 40;
+    border: 6px solid yellow;
+}
+.contenedorpadre{
+    display: flex;
+    background-color: aqua;
+    padding: 40px;
+    border: 6px solid black
+}
+.contenedorpadre{
+    flex-direction: 400px;
+    justify-content: center;
+flex-wrap: nowrap;
+margin: 100px;
+}
+.titulo{
+    background-color: chartreuse;
+    color: darkblue;
+    border: 1px solid black;
+}
+.titulo:hover{
+    background-color: darkblue;
+    color: chartreuse;
+    cursor: pointer;
+
+}

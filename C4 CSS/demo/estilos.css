@@ -1,0 +1,24 @@
+  img {
+        height: 50px;
+        width: 50px;
+  }
+  #lupa{
+    width: 20px;
+    height: 20px;
+  }
+  
+#css{
+  width: 200px;
+  height: 200px;
+}
+  .botonamarillo
+{
+    background-color: yellow;
+}
+article{
+    background-color: rgb(146, 201, 233);
+
+}
+section{
+  background-color: orange;
+}
